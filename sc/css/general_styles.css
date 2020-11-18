@@ -12,4 +12,24 @@
    * look into em, pt and % for other unit types
    * the rules are always clockwise: top, right, bottom, left
   */
+
+  /*
+  * Other font-sizes: 2, 3, 4 in vw
+  */
+
+  p.title {
+    font-size: 7vw
+    margin-left: 12px;
+  }
+
+  p.contents {
+    font-size: 4vw
+    margin-left: 12px;
+  }
+
+  p.copyright {
+    font-size: 4vw
+    margin-left: 12px;
+  }
+
 </style>
