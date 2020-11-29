@@ -67,4 +67,12 @@
       font-style: italic;
   }
 
+  #contents {
+    font-size: 4vw;
+    margin-left: 12px;
+    margin-right: 12px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
 /*</style>*/
