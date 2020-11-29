@@ -17,25 +17,10 @@
   * Other font-sizes: 2, 3, 4 in vw
   */
 
-/*
-  p.title {
-    font-size: 7vw
-    margin-left: 12px;
-  }
-
-  p.contents {
-    font-size: 4vw
-    margin-left: 12px;
-  }
-
-  p.copyright {
-    font-size: 4vw
-    margin-left: 12px;
-  }
-  */
-
   body {
     font-family: 'Roboto', sans-serif;
+     margin-left: 12px;
+     margin-right: 12px;
   }
 
   a {
@@ -54,40 +39,28 @@
 
   #title {
     font-size: 7vw;
-    margin-left: 12px;
-    margin-right: 12px;
     margin-top: 24px;
     font-style: bold;
   }
 
   #lastupdated {
       font-size: 4vw;
-      margin-left: 12px;
-      margin-right: 12px;
       font-style: italic;
   }
 
   #contents {
     font-size: 4vw;
-    margin-left: 12px;
-    margin-right: 12px;
     text-align: justify;
     text-justify: inter-word;
   }
 
   #asterisk {
     font-size: 4vw;
-    margin-left: 12px;
-    margin-right: 12px;
     text-align: justify;
     text-justify: inter-word;
   }
 
   #copyright {
     font-size: 4vw;
-    margin-left: 12px;
-    margin-right: 12px;
     margin-bottom: 24px;
   }
-
-/*</style>*/
