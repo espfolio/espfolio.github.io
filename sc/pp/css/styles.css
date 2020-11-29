@@ -38,4 +38,9 @@
     font-family: 'Roboto', sans-serif;
   }
 
+  a {
+    color:#D81B60;
+    text-decoration: underline;
+  }
+
 /*</style>*/
