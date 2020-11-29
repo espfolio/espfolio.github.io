@@ -75,4 +75,19 @@
     text-justify: inter-word;
   }
 
+  #asterisk {
+    font-size: 4vw;
+    margin-left: 12px;
+    margin-right: 12px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  #copyright {
+    font-size: 4vw;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 24px;
+  }
+
 /*</style>*/
