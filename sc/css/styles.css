@@ -17,7 +17,7 @@
   * Other font-sizes: 2, 3, 4 in vw
   */
 
-  body {
+  html {
     font-family: 'Roboto', sans-serif;
      margin-left: 12px;
      margin-right: 12px;
