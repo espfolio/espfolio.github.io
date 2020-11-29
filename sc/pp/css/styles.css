@@ -52,11 +52,19 @@
   }
   */
 
+  #title {
+    font-size: 7vw;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 24px;
+    font-style: bold;
+  }
+
   #lastupdated {
       font-size: 4vw;
       margin-left: 12px;
       margin-right: 12px;
       font-style: italic;
-    }
+  }
 
 /*</style>*/
