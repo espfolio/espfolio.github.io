@@ -36,6 +36,14 @@
 
   body {
     font-family: 'Roboto', sans-serif;
+  }
+
+  p {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  div {
     margin-left: 12px;
     margin-right: 12px;
   }
