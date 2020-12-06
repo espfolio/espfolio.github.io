@@ -4,8 +4,7 @@
   "versions": [
     {
       "version": "1.0.0",
-      "minSDK": 21,
-      "dbVersion": 0
+      "minSDK": 21
     }
   ]
 }
