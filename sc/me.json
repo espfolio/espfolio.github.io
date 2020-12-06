@@ -1,9 +1,11 @@
 {
   "name": "Share Coords",
+  "alias": "sc",
   "versions": [
     {
       "version": "1.0.0",
-      "minSDK": "21"
+      "minSDK": 21,
+      "dbVersion": 0
     }
   ]
 }
