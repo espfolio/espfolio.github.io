@@ -1,6 +1,7 @@
 {
   "name": "Share Coords",
   "alias": "sc",
+  "applicationId": "com.espfolio.sc",
   "versions": [
     {
       "version": "1.0.0",
