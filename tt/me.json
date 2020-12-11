@@ -1,0 +1,12 @@
+{
+  "name": "Tagger Tiger",
+  "alias": "tt",
+  "applicationId": "com.espfolio.tt",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "minSDK": 21,
+      "dbVersion": 1
+    }
+  ]
+}
