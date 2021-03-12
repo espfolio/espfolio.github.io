@@ -1,0 +1,39 @@
+html {
+	font-family: 'Roboto', sans-serif;
+	margin-left: 12px;
+	margin-top: 12px;
+	margin-right: 12px;
+	margin-bottom: 12px;
+}
+
+a {
+	color:#0000FF;
+	text-decoration: underline;
+}
+
+#title {
+	font-size: 7vw;
+	font-style: bold;
+}
+
+#lastupdated {
+	font-size: 4vw;
+	font-style: italic;
+}
+
+#contents {
+	font-size: 4vw;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+#thirdpartywebsite {
+	font-size: 4vw;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+#copyright {
+	font-size: 4vw;
+}
+
