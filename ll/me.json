@@ -1,0 +1,13 @@
+{
+  "name": "Locus Logger",
+  "alias": "ll",
+  "applicationId": "com.espfolio.ll",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "minSDK": 21,
+      "dbVersion": 1,
+      "year": 2021
+    }
+  ]
+}
