@@ -1,0 +1,13 @@
+{
+  "name": "Saci Perere",
+  "alias": "sp",
+  "applicationId": "com.espfolio.sp",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "minSDK": 21,
+      "dbVersion": 1,
+      "year": 2021
+    }
+  ]
+}
